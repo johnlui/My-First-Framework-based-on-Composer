@@ -1,0 +1,33 @@
+[
+    {
+        "name": "codingbean/macaw",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "git@github.com:Codingbean/Macaw.git",
+            "reference": "43b69f74c42ba96223e080bcf55995ff6f1ab7ea"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Codingbean/Macaw/zipball/43b69f74c42ba96223e080bcf55995ff6f1ab7ea",
+            "reference": "43b69f74c42ba96223e080bcf55995ff6f1ab7ea",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "time": "2014-07-29 18:17:02",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "NoahBuscher\\Macaw\\": ""
+            }
+        },
+        "license": [
+            "MIT"
+        ],
+        "description": "Sexy PHP router."
+    }
+]
