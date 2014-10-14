@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4cd29280b61a5dcaee94b65bf64a6e13",
+    "hash": "88312507c38061fc3eb8417f4d4fd7ba",
     "packages": [
         {
             "name": "codingbean/macaw",

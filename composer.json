@@ -1,5 +1,11 @@
 {
   "require": {
     "codingbean/macaw": "dev-master"
+  },
+  "autoload": {
+    "classmap": [
+      "app/controllers",
+      "app/models"
+    ]
   }
 }
