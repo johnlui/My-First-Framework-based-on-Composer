@@ -1,6 +1,7 @@
 {
   "require": {
-    "codingbean/macaw": "dev-master"
+    "codingbean/macaw": "dev-master",
+    "illuminate/database": "*"
   },
   "autoload": {
     "classmap": [
