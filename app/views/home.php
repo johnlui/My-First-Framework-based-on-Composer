@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>MFFC</title>
+  <title><?php echo $title ?></title>
 </head>
 <body>
   <div class="article">
@@ -11,5 +11,11 @@
       <?php echo $article['content'] ?>
     </div>
   </div>
+  <ul class="fuckme">
+    <li>Fuck Me !</li>
+    <li>
+      <?php echo $fuck_me ?>
+    </li>
+  </ul>
 </body>
 </html>
