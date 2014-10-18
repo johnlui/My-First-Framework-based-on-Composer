@@ -2,7 +2,8 @@
   "require": {
     "codingbean/macaw": "dev-master",
     "illuminate/database": "*",
-    "filp/whoops": "*"
+    "filp/whoops": "*",
+    "nette/mail": "*"
   },
   "autoload": {
     "classmap": [
